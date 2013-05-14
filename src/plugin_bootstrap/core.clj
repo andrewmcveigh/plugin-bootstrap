@@ -10,6 +10,14 @@
   [:link {:rel "stylesheet"
           :href "/plugins/bootstrap/css/bootstrap.css"}])
 
+(def css-responsive
+  [:link {:rel "stylesheet"
+          :href "/plugins/bootstrap/css/bootstrap-responsive.min.css"}])
+
+(def css-responsive-debug
+  [:link {:rel "stylesheet"
+          :href "/plugins/bootstrap/css/bootstrap-responsive.css"}])
+
 (def css-font-awesome
   [:link {:rel "stylesheet"
           :href "/plugins/font-awesome/css/font-awesome.min.css"}])
