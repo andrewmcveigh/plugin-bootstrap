@@ -1,4 +1,4 @@
-(defproject com.andrewmcveigh/plugin-bootstrap "0.1.1"
+(defproject com.andrewmcveigh/plugin-bootstrap "0.1.2-SNAPSHOT"
   :description "Twitter Bootstrap and Font Awsome packaged as a Servlet 3.0
                plugin. With a couple of clojure/hiccup helpers."
   :url "http://github.com/andrewmcveigh/plugin-bootstrap"
