@@ -10,6 +10,14 @@
   [:link {:rel "stylesheet"
           :href "/plugins/bootstrap/css/bootstrap.css"}])
 
+(def css-font-awesome
+  [:link {:rel "stylesheet"
+          :href "/plugins/font-awesome/css/font-awesome.min.css"}])
+
+(def css-font-awesome-debug
+  [:link {:rel "stylesheet"
+          :href "/plugins/font-awesome/css/font-awesome.css"}])
+
 (def js
   (list jquery/js
         [:script {:src "/plugins/bootstrap/js/bootstrap.min.js"}]))
