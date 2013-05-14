@@ -5,7 +5,7 @@ couple of clojure/hiccup helpers.
 
 ## Usage
 
-[com.andrewmcveigh/plugin-bootstrap "0.1.1"]
+[com.andrewmcveigh/plugin-bootstrap "0.1.2"]
 
 ## License
 
