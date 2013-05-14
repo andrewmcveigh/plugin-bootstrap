@@ -1,10 +1,11 @@
 # plugin-bootstrap
 
-A Clojure library designed to ... well, that part is up to you.
+Twitter Bootstrap and Font Awsome packaged as a Servlet 3.0 plugin. With a
+couple of clojure/hiccup helpers.
 
 ## Usage
 
-[com.andrewmcveigh/plugin-bootstrap "0.1.0-SNAPSHOT"]
+[com.andrewmcveigh/plugin-bootstrap "0.1.1"]
 
 ## License
 
