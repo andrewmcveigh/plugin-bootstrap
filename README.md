@@ -5,7 +5,11 @@ couple of clojure/hiccup helpers.
 
 ## Usage
 
-[com.andrewmcveigh/plugin-bootstrap "0.1.2"]
+As of November 2013, this plugin's version tracks the Bootstrap version.
+
+```clojure
+[com.andrewmcveigh/plugin-bootstrap "3.0.2"]
+```
 
 ## License
 
